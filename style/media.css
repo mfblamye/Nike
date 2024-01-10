@@ -1,6 +1,8 @@
 @media screen and (max-width: 930px) {
     .header__nav {
         flex-direction: column;
+        padding-top: 30px;
+        gap: 14px;
     }
 }
 
